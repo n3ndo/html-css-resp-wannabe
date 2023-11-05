@@ -129,6 +129,12 @@ img {
  ************************************************/
 
  @media screen and (max-width: 768px) {
+    .steps{
+        background: none;
+    }
+    .steps .container{
+        background-color: #eebbc3;
+    }
 
  }
 
